@@ -1,6 +1,3 @@
-# alx-listing-app
-The ALX Listing App project aims to scaffold and lay the foundational structure for a modern Airbnb clone. 
-
 # 🏡 ALX Stays - Modern Airbnb Clone
 
 A sophisticated, modern property rental platform built with Next.js, TypeScript, and TailwindCSS. This redesigned version features a premium user interface, smooth animations, and enhanced user experience.
