@@ -1,4 +1,4 @@
-# 🏡 ALX Stays - Modern Airbnb Clone
+# 🏡 ALX Listing - Modern Airbnb Clone
 
 A sophisticated, modern property rental platform built with Next.js, TypeScript, and TailwindCSS. This redesigned version features a premium user interface, smooth animations, and enhanced user experience.
 
